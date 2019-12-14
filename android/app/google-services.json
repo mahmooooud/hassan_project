@@ -1,0 +1,199 @@
+{
+  "project_info": {
+    "project_number": "1025643905479",
+    "firebase_url": "https://courseproject-1d2b9.firebaseio.com",
+    "project_id": "courseproject-1d2b9",
+    "storage_bucket": "courseproject-1d2b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025643905479:android:09dbf6363f6e7c0a1c59e2",
+        "android_client_info": {
+          "package_name": "clientapp.aliaay.com.testapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025643905479-fnk5vheap4esdrcq4gbhetk00d2odf5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjcilYQTQbX_cgMwcIrGKpQJqAg_Etmr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025643905479-fnk5vheap4esdrcq4gbhetk00d2odf5n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1025643905479-em1hbgj6bok90927oq8dlnbbhnaonb7q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.courseproject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025643905479:android:85300ccf379081df1c59e2",
+        "android_client_info": {
+          "package_name": "co.mirnamourad.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025643905479-fnk5vheap4esdrcq4gbhetk00d2odf5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjcilYQTQbX_cgMwcIrGKpQJqAg_Etmr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025643905479-fnk5vheap4esdrcq4gbhetk00d2odf5n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1025643905479-em1hbgj6bok90927oq8dlnbbhnaonb7q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.courseproject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025643905479:android:f7deef0df5cf308f1c59e2",
+        "android_client_info": {
+          "package_name": "com.example.courseproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025643905479-fnk5vheap4esdrcq4gbhetk00d2odf5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjcilYQTQbX_cgMwcIrGKpQJqAg_Etmr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025643905479-fnk5vheap4esdrcq4gbhetk00d2odf5n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1025643905479-em1hbgj6bok90927oq8dlnbbhnaonb7q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.courseproject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025643905479:android:cec33da23507069b1c59e2",
+        "android_client_info": {
+          "package_name": "com.example.courses_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025643905479-fnk5vheap4esdrcq4gbhetk00d2odf5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjcilYQTQbX_cgMwcIrGKpQJqAg_Etmr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025643905479-fnk5vheap4esdrcq4gbhetk00d2odf5n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1025643905479-em1hbgj6bok90927oq8dlnbbhnaonb7q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.courseproject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025643905479:android:aab8a1ce7c03a6c41c59e2",
+        "android_client_info": {
+          "package_name": "com.hassan_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025643905479-hnufm3f6aujifpl7l9ihsmnebbn871at.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hassan_project",
+            "certificate_hash": "63032b4d62f9b6136845f8f174f5b6c0f905cc2b"
+          }
+        },
+        {
+          "client_id": "1025643905479-fnk5vheap4esdrcq4gbhetk00d2odf5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjcilYQTQbX_cgMwcIrGKpQJqAg_Etmr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025643905479-fnk5vheap4esdrcq4gbhetk00d2odf5n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1025643905479-em1hbgj6bok90927oq8dlnbbhnaonb7q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.courseproject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
